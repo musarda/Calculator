@@ -6,4 +6,4 @@
 
 ![Ekran Alıntısı77777777](https://user-images.githubusercontent.com/107439786/187400989-29191f96-42d2-4cef-8001-455c887fbe28.PNG)
 
-Discord Server:https://discord.gg/kRVZX8Tr64
+Twitter:https://twitter.com/musardas
