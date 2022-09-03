@@ -1,4 +1,7 @@
 # Making a Calculator with C++
+
+- [ Code ](https://github.com/musarda/Calculator/blob/main/Calculator.cpp)
+
 # Output:
 ![Ekran Alıntısı99999](https://user-images.githubusercontent.com/107439786/187400859-533c6df7-937c-433b-96e9-7a2d3cf92714.PNG)
 
